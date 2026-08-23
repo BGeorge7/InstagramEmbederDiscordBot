@@ -6,5 +6,6 @@ dist
 .git
 .gitignore
 coverage
+artifacts
 tests
 *.log
